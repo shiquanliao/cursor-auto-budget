@@ -12,7 +12,11 @@
 
 ## 在线使用
 
-项目发布后可直接访问 GitHub Pages：
+免费体验入口（登录后进入一键安装页）：
+
+**https://panel.mixrai.com/cursor-install**
+
+额度计算器：
 
 **https://shiquanliao.github.io/cursor-auto-budget/**
 
@@ -62,10 +66,12 @@ npm test
 
 测试使用 Node.js 内置测试器，没有第三方依赖。
 
-## 申请首批体验
+## 领取免费体验
 
-如果你愿意参加小范围内测，请提交一份
-[内测申请](https://github.com/shiquanliao/cursor-auto-budget/issues/new?template=beta.yml)。
+前往 [平台安装页](https://panel.mixrai.com/cursor-install)，登录后领取安装命令并完成连接。
+
+如果暂时无法安装或有功能建议，可以提交一份
+[反馈](https://github.com/shiquanliao/cursor-auto-budget/issues/new?template=beta.yml)。
 
 内测阶段只收集系统、芯片架构和大致使用频率，不要在 Issue 中提交账号、密码、Cookie、Token 或付款信息。
 
