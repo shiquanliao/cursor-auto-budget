@@ -4,7 +4,7 @@
 
 **免费体验 · 一键安装 · 用量透明**
 
-[![立即体验](https://img.shields.io/badge/立即体验-进入安装页-75f0bc?style=for-the-badge)](https://panel.mixrai.com/cursor-install?utm_source=github&utm_medium=organic&utm_campaign=cursor_auto_starter&utm_content=readme_top)
+[![免费体验](https://img.shields.io/badge/免费体验-注册即送额度-75f0bc?style=for-the-badge)](https://panel.mixrai.com/r/github?medium=organic&campaign=cursor_free_trial&content=readme_top)
 
 </div>
 
@@ -35,20 +35,18 @@ python3 doctor.py
 python3 doctor.py --json
 ```
 
-检测完成后前往：
+检测完成后可免费注册并领取体验额度：
 
-**https://panel.mixrai.com/cursor-install**
+**[进入安装与免费体验页](https://panel.mixrai.com/r/github?medium=organic&campaign=cursor_free_trial&content=readme_text)**
 
 ## 免费体验口径
 
-建议首发参数：
+当前活动：
 
 | 阶段 | 体验额度 | 说明 |
 |---|---:|---|
 | 完成注册 | $0.50 | 覆盖一次轻量体验 |
-| 完成安装并首次连接 | 再送 $1.50 | 合计 $2 体验额度 |
 | 每日签到 | $0.05–$0.15 | 每个自然日一次 |
-| 连续 7 天 | $0.50 | 奖励真实留存 |
 
 一次任务的上下文长度和工具调用次数不同，因此不承诺固定“免费次数”。完整设计见
 [免费体验层设计](docs/FREE_TIER_DESIGN.md)。
